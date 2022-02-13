@@ -1,11 +1,10 @@
-![Web Developer and Shopify Expert](https://media-exp1.licdn.com/dms/image/C5616AQFHj0m_i31Qgg/profile-displaybackgroundimage-shrink_200_800/0/1644768897376?e=1650499200&v=beta&t=ulMg2yALzJ99rGme88b2NfQmNPgTYdBudmGkkbxLaeg)
-
 ### Hi there 👋, I'm Nil Alfi
-#### Web Developer and Shopify Expert
+#### Web Development and Shopify Expert
+![Web Development and Shopify Expert](https://scontent.fdac99-1.fna.fbcdn.net/v/t39.30808-6/s960x960/273372639_642808190305060_8957541806536585290_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGPI_NoHo0ijF-tP8BoUB7UEcyhUZ9QgyARzKFRn1CDIAcsuEGVGeMSbSSakEcHVvc8uHBb9Y0Fwm3lj_6EgZeg&_nc_ohc=My4fSv1NEKEAX-fJN42&_nc_ht=scontent.fdac99-1.fna&oh=00_AT8QSQWkAF-10IjzZV9KFeE2WDsR6_BfIjkXUyDEthRaiw&oe=620E9735)
 
-Hi, It is Nil Alfi, I'm a professional Shopify developer. My only goal is to satisfy the client completely with my work. Landing page design with Pagefly, shogun, Gempage Page builder.
+Hi, It is Nil Alfi, I'm a professional Shopify developer. My only goal is to satisfy the client completely with my work. Landing page design with Pagefly, shogun, Gempages, Zipify Page builder.
 
-Skills: Shopify / JavaScript / Wix /  REACT / HTML / CSS / Bootstrap5
+Skills: JavaScript / Shopify / Pagefly / Shogun / Gempages / Dropshipping  / REACT / JS / HTML / CSS / Bootstrap5
 
 - 🔭 I’m currently working on Fiverr 
 - 🌱 I’m currently learning Web development and Shopify 
@@ -14,7 +13,7 @@ Skills: Shopify / JavaScript / Wix /  REACT / HTML / CSS / Bootstrap5
 - 📫 How to reach me: LinkedIn 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NilAlfi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nil-alfi-4339161b5//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NilAlfi2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nil_alfi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NilAlfi)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NilAlfi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nil-alfi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/NilAlfi2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nil_alfi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Nil_Alfi2)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
